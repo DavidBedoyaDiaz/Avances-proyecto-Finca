@@ -1,0 +1,13 @@
+C:\Users\salas\source\repos\InterfazFincaCafetera-Borr\bin\Debug\InterfazFincaCafetera-Borr.exe.config
+C:\Users\salas\source\repos\InterfazFincaCafetera-Borr\bin\Debug\InterfazFincaCafetera-Borr.exe
+C:\Users\salas\source\repos\InterfazFincaCafetera-Borr\bin\Debug\InterfazFincaCafetera-Borr.pdb
+C:\Users\salas\source\repos\InterfazFincaCafetera-Borr\obj\Debug\InterfazFincaCafetera-Borr.csprojAssemblyReference.cache
+C:\Users\salas\source\repos\InterfazFincaCafetera-Borr\obj\Debug\InterfazFincaCafetera_Borr.FrmLoginAdmin.resources
+C:\Users\salas\source\repos\InterfazFincaCafetera-Borr\obj\Debug\InterfazFincaCafetera_Borr.Properties.Resources.resources
+C:\Users\salas\source\repos\InterfazFincaCafetera-Borr\obj\Debug\InterfazFincaCafetera-Borr.csproj.GenerateResource.cache
+C:\Users\salas\source\repos\InterfazFincaCafetera-Borr\obj\Debug\InterfazFincaCafetera-Borr.csproj.CoreCompileInputs.cache
+C:\Users\salas\source\repos\InterfazFincaCafetera-Borr\obj\Debug\InterfazFincaCafetera-Borr.exe
+C:\Users\salas\source\repos\InterfazFincaCafetera-Borr\obj\Debug\InterfazFincaCafetera-Borr.pdb
+C:\Users\salas\source\repos\InterfazFincaCafetera-Borr\obj\Debug\InterfazFincaCafetera_Borr.FrmRegistrarProduccion.resources
+C:\Users\salas\source\repos\InterfazFincaCafetera-Borr\obj\Debug\InterfazFincaCafetera_Borr.FrmLoginPropietario.resources
+C:\Users\salas\source\repos\InterfazFincaCafetera-Borr\obj\Debug\InterfazFincaCafetera_Borr.FrmLoginMayordomo.resources
